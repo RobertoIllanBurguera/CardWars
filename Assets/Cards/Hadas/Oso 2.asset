@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb36d9780e6d3bc48a116f04c9089a14, type: 3}
+  m_Name: Oso 2
+  m_EditorClassIdentifier: 
+  cardName: Oso Salvaje
+  attack: 4
+  health: 4
+  speed: 1
+  type1: 5
+  type2: 5
+  passiveAbility: 0
+  abilityTarget: 1
+  cost: 1
+  abilityDetails: 
+  artwork: {fileID: 21300000, guid: a95a6a65d362a354697354ba4e518b9d, type: 3}
+  isTerrain: 0
+  terrainType: 0
+  buffAttackAmount: 0
+  buffHealthAmount: 0
+  cartaInvocada: {fileID: 0}

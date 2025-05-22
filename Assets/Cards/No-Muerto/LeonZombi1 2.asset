@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb36d9780e6d3bc48a116f04c9089a14, type: 3}
+  m_Name: LeonZombi1 2
+  m_EditorClassIdentifier: 
+  cardName: Leon Muerto
+  attack: 4
+  health: 2
+  speed: 2
+  type1: 2
+  type2: 2
+  passiveAbility: 0
+  abilityTarget: 0
+  cost: 1
+  abilityDetails: 
+  artwork: {fileID: 21300000, guid: 8a656197dbcc4474a9484135b284487d, type: 3}
+  isTerrain: 0
+  terrainType: 0
+  buffAttackAmount: 0
+  buffHealthAmount: 0
+  cartaInvocada: {fileID: 0}

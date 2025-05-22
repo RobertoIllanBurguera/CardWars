@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb36d9780e6d3bc48a116f04c9089a14, type: 3}
+  m_Name: hada_de_fuego
+  m_EditorClassIdentifier: 
+  cardName: Hada de Fuego
+  attack: 4
+  health: 3
+  speed: 3
+  type1: 1
+  type2: 6
+  passiveAbility: 1
+  abilityTarget: 2
+  cost: 1
+  abilityDetails: 
+  artwork: {fileID: 21300000, guid: 8b889498ef89c324d9d0593a2d8cd6c8, type: 3}
+  isTerrain: 0
+  terrainType: 0
+  buffAttackAmount: 0
+  buffHealthAmount: 0
+  cartaInvocada: {fileID: 0}

@@ -1,0 +1,26 @@
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+MemoryCaptures/
+
+# Archivos ocultos de sistema
+.DS_Store
+Thumbs.db
+
+# Visual Studio
+.vscode/
+*.csproj
+*.sln
+*.user
+*.pidb
+
+# Archivos temporales de Unity
+*.apk
+*.unitypackage
+
+# Datos generados que no deberían subirse
+*.resS
